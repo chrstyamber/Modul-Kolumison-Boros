@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "soal": "Ogumu",
+      "a": "Oniba",
+      "b": "Okoro",
+      "c": "Okuri",
+      "d": "Osomok",
+      "jawaban_benar": "c",
+      "bobot": "10"
+    },
+    {
+      "soal": "Agayo",
+      "a": "Okoro",
+      "b": "Alaab",
+      "c": "Oniba",
+      "d": "Omulok",
+      "jawaban_benar": "a",
+      "bobot": "10"
+    },
+    {
+      "soal": "Anaru",
+      "a": "Osomok",
+      "b": "Oniba",
+      "c": "Osorou",
+      "d": "Osiau",
+      "jawaban_benar": "b",
+      "bobot": "10"
+    },
+    {
+      "soal": "Orohian",
+      "a": "Osonong",
+      "b": "Araatan",
+      "c": "Asana",
+      "d": "Araat",
+      "jawaban_benar": "c",
+      "bobot": "10"
+    },
+    {
+      "soal": "Olohing",
+      "a": "Okoro",
+      "b": "Otuo",
+      "c": "Tanganak",
+      "d": "Omulok",
+      "jawaban_benar": "d",
+      "bobot": "10"
+    },
+    {
+      "soal": "Osodu",
+      "a": "Otiil",
+      "b": "Osomok",
+      "c": "Oniba",
+      "d": "Osiau",
+      "jawaban_benar": "b",
+      "bobot": "10"
+    },
+    {
+      "soal": "Araat",
+      "a": "Araatan",
+      "b": "Osonong",
+      "c": "Abagos",
+      "d": "Osuau",
+      "jawaban_benar": "b",
+      "bobot": "10"
+    },
+    {
+      "soal": "Olingai ",
+      "a": "Osorou",
+      "b": "Osonong",
+      "c": "Gobulan",
+      "d": "Osomok",
+      "jawaban_benar": "a",
+      "bobot": "10"
+    },
+    {
+      "soal": "Manangkus",
+      "a": "Nakasadu",
+      "b": "Mangampad",
+      "c": "Momogusa",
+      "d": "Mamanau",
+      "jawaban_benar": "d",
+      "bobot": "10"
+    },
+    {
+      "soal": "Aparu",
+      "a": "Otiil",
+      "b": "Osikap",
+      "c": "Gobulan",
+      "d": "Osiau",
+      "jawaban_benar": "c",
+      "bobot": "10"
+    }
+
+  ] 
+}
